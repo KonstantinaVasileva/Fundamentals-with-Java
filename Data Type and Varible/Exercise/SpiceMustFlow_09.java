@@ -16,7 +16,7 @@ public class SpiceMustFlow_09 {
             count ++;
         }
         System.out.println(count);
-     //   if (allSpice>=26)
+        if (allSpice>=26)
             allSpice -= 26;
         System.out.println(allSpice);
     }
