@@ -71,3 +71,5 @@ public class KaminoFactory_05 {
 
     }
 }
+
+// 90/100
